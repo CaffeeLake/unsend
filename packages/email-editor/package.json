@@ -24,7 +24,7 @@
     "@usesend/eslint-config": "workspace:*",
     "@usesend/typescript-config": "workspace:*",
     "@usesend/ui": "workspace:*",
-    "postcss": "^8.5.14",
+    "postcss": "^8.5.15",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "react": "^19.1.0",
