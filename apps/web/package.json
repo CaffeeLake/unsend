@@ -58,7 +58,7 @@
     "date-fns": "^4.1.0",
     "emoji-picker-react": "^4.12.2",
     "framer-motion": "^12.9.2",
-    "hono": "^4.12.19",
+    "hono": "^4.12.30",
     "html-to-text": "^9.0.5",
     "ioredis": "5.10.1",
     "jsx-email": "^2.8.4",
@@ -67,7 +67,7 @@
     "nanoid": "^5.1.5",
     "next": "15.5.18",
     "next-auth": "^4.24.14",
-    "nodemailer": "^8.0.5",
+    "nodemailer": "^9.0.1",
     "pino": "^9.7.0",
     "pino-pretty": "^13.0.0",
     "pnpm": "^11.11.0",
@@ -111,7 +111,7 @@
     "tailwindcss": "^4.1.0",
     "typescript": "^5.8.3",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^3.2.4",
+    "vitest": "^4.1.10",
     "@vitest/coverage-v8": "^3.2.4"
   },
   "overrides": {
